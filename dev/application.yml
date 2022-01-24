@@ -1,8 +1,8 @@
-application.id: documentservice
+application.id: documentservice-dev
 
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/local?allowPublicKeyRetrieval=true&useSSL=false
+    url: jdbc:mysql://localhost:3306/mydatabase?allowPublicKeyRetrieval=true&useSSL=false
     username: root
     password: mysql
   jpa:
