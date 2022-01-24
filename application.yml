@@ -1,4 +1,4 @@
-application.id: backend-application
+application.id: documentservice
 
 spring:
   datasource:
